@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redfire314&layout=compact&langs_count=7&theme=react">
 </div>
   
-##
+## Foco
   
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +16,7 @@
   <img align="center" alt="ReactJS" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-##
+## Contato
   
 <div>
   <a href="https://www.linkedin.com/in/leandroaraujowm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
