@@ -1,12 +1,12 @@
-<h3>
+<h2>
   Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
   Bem-vindo(a) ao meu GitHub
-</h3>
+</h2>
 
 <div align="center">
   <a href="https://github.com/redfire314">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redfire314&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redfire314&layout=compact&langs_count=7&theme=react">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redfire314&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redfire314&langs_count=3&theme=react&locale=pt-br">
 </div>
   
 ## Foco :books:
