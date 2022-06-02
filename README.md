@@ -1,5 +1,5 @@
 <h2>
-  Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br>
+  Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"><br>
   Bem-vindo(a) ao meu GitHub
 </h2>
 
