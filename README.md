@@ -1,7 +1,8 @@
+<!--
 <div align="center" >
     <img src="https://i.ibb.co/RCX0SMt/code-png.png" height="360em" />
 </div>
-<!--
+-->
 ```javascript
 const redfire314 = {
     name: 'Leandro Araújo',
@@ -15,7 +16,6 @@ const redfire314 = {
     }
 }
 ```
--->
 <!--
     <div align="center">
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redfire314&show_icons=true&theme=react&include_all_commits=true&count_private=true&locale=pt-br" />
