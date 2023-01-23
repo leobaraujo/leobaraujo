@@ -1,10 +1,5 @@
-<!--
-<div align="center" >
-    <img src="https://i.ibb.co/RCX0SMt/code-png.png" height="360em" />
-</div>
--->
 ```javascript
-const redfire314 = {
+let redfire314 = {
     name: 'Leandro Araújo',
     role: 'Front-end Developer',
     location: 'Brazil',
@@ -12,7 +7,9 @@ const redfire314 = {
     skills: {
         frontEnd: ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
         backEnd: ['Node.js', 'Express'],
-        database: ['MySQL', 'MongoDB']
+        database: ['MySQL', 'MongoDB'],
+        misc: ['TypeScript', 'Jest', 'Sass', 'Styled Components'],
+        soon: ['Angular', 'GraphQL', 'Tailwind']
     }
 }
 ```
