@@ -1,6 +1,6 @@
-## About me
+## Sobre mim
 <p>
-Front-end Developer | Student of System Analysis and Development | Self-taugh, curious and in love with tech
+Desenvolvedor Front-end | Estudante de Análise e Desenvolvimento de Sistemas | Autodidata, curioso e apaixonado por tecnologia
 </p>
 
 ## Hard skills
@@ -27,5 +27,5 @@ const redfire314 = {
 </div>
 -->
 
-## Contact
+## Contato
 <a href="https://www.linkedin.com/in/leandroaraujowm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
