@@ -14,8 +14,8 @@ const redfire314 = {
         frontEnd: ['HTML', 'CSS', 'JavaScript', 'React'],
         backEnd: ['Node.js', 'Express'],
         database: ['MySQL', 'MongoDB'],
-        misc: ['TypeScript', 'Jest', 'Sass', 'Styled Components'],
-        learning: ['GraphQL', 'Tailwind']
+        misc: ['Git', 'Scrum', 'TypeScript', 'Sass', 'styled-components'],
+        learning: ['GraphQL', 'Tailwind', 'Firebase']
     }
 }
 ```
