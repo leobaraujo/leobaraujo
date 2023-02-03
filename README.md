@@ -4,6 +4,7 @@ Desenvolvedor Front-end | Estudante de Análise e Desenvolvimento de Sistemas | 
 </p>
 
 ## Hard skills
+<!--
 ```javascript
 const redfire314 = {
     name: 'Leandro Araújo',
@@ -17,6 +18,16 @@ const redfire314 = {
         misc: ['Git', 'Scrum', 'TypeScript', 'Sass', 'styled-components'],
         learning: ['GraphQL', 'Tailwind', 'Firebase']
     }
+}
+```
+-->
+```Javascript
+{
+    frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
+    backend: ['Node.js', 'Express'],
+    database: ['MySQL', 'MongoDB'],
+    misc: ['Git', 'Scrum', 'TypeScript', 'Sass', 'styled-components'],
+    learning: ['GraphQL', 'Tailwind', 'Firebase', 'Docker']
 }
 ```
 
