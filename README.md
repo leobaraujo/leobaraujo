@@ -9,7 +9,7 @@ Desenvolvedor Front-end | Estudante de Análise e Desenvolvimento de Sistemas | 
     frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
     backend: ['Node.js', 'Express'],
     database: ['MySQL', 'MongoDB'],
-    misc: ['Git', 'Scrum', 'TypeScript', 'Sass', 'styled-components', 'GraphQL', 'Tailwind'],
+    misc: ['Git', 'Scrum', 'TypeScript', 'Sass', 'styled-components', 'GraphQL', 'Tailwind', 'Storybook'],
     learning: ['Firebase', 'Docker', 'Next.js', 'Vue.js']
 }
 ```
