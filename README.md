@@ -1,6 +1,6 @@
 ## Sobre mim
 <p>
-Desenvolvedor Front-end | Estudante de Análise e Desenvolvimento de Sistemas | Autodidata, curioso e apaixonado por tecnologia
+Desenvolvedor Frontend - Autodidata, curioso e apaixonado por tecnologia
 </p>
 
 ## Hard skills
@@ -8,7 +8,7 @@ Desenvolvedor Front-end | Estudante de Análise e Desenvolvimento de Sistemas | 
 {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
     backend: ['Node.js', 'Express'],
-    misc: ['TypeScript', 'styled-components', 'Tailwind CSS', 'Storybook', 'GraphQL', 'Docker'],
+    misc: ['TypeScript', 'styled-components', 'Tailwind CSS', 'Storybook', 'GraphQL', 'Redux', 'Docker'],
     learning: ['Ruby on Rails', 'Firebase', 'Next.js', 'Flutter']
 }
 ```
