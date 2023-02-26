@@ -9,7 +9,7 @@ Desenvolvedor Frontend - Autodidata, curioso e apaixonado por tecnologia
     frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
     backend: ['Node.js', 'Express'],
     misc: ['TypeScript', 'styled-components', 'Tailwind CSS', 'Storybook', 'GraphQL', 'Redux', 'Docker'],
-    learning: ['Ruby on Rails', 'Firebase', 'Next.js', 'Flutter']
+    learning: ['Ruby on Rails', 'Next.js', 'React Native']
 }
 ```
 
