@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Leandro+Ara%C3%BAjo;Web+Developer)](https://git.io/typing-svg)
+### Hi! I'm Leandro Araújo, a web developer 👨🏻‍💻
 
 ## Hard skills
 ```Javascript
