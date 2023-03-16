@@ -5,7 +5,7 @@
 {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'React Native', 'Next.js'],
     backend: ['Node.js', 'Express'],
-    misc: ['TypeScript', 'Tailwind CSS', 'styled-components', 'Storybook', 'Redux', 'GraphQL', 'Docker'],
+    misc: ['TypeScript', 'Tailwind CSS', 'styled-components', 'Storybook', 'GraphQL', 'Docker', 'Firebase'],
     learning: ['Ruby on Rails']
 }
 ```
