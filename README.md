@@ -3,10 +3,10 @@
 ## Hard skills
 ```Javascript
 {
-    frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'React Native', 'Next.js'],
+    frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Next.js'],
     backend: ['Node.js', 'Express'],
-    misc: ['TypeScript', 'Tailwind CSS', 'styled-components', 'Storybook', 'GraphQL', 'Docker', 'Firebase'],
-    learning: ['Ruby on Rails']
+    misc: ['TypeScript', 'Tailwind CSS', 'styled-components', 'Storybook', 'GraphQL', 'Firebase', 'Docker'],
+    learning: ['Vue.js']
 }
 ```
 
