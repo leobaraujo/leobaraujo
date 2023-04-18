@@ -6,7 +6,7 @@
     frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Next.js'],
     backend: ['Node.js', 'Express'],
     misc: ['TypeScript', 'Tailwind CSS', 'styled-components', 'Storybook', 'GraphQL', 'Firebase', 'Docker'],
-    learning: ['Python', 'Flask', 'Django']
+    learning: ['Java', 'Spring Boot']
 }
 ```
 
