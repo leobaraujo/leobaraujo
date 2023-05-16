@@ -3,9 +3,9 @@
 ```Javascript
 {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
-    backend: ['Node.js', 'Express'],
-    misc: ['TypeScript', 'Tailwind CSS', 'styled-components', 'Storybook', 'GraphQL', 'Firebase', 'Docker'],
-    learning: ['Java', 'Spring Boot']
+    backend: ['Java', 'Spring Boot'],
+    database: ['PostgreSQL', 'MongoDB'],
+    misc: ['TypeScript', 'GraphQL', 'Firebase', 'Docker', 'Spring Cloud']
 }
 ```
 
