@@ -5,7 +5,8 @@
     frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
     backend: ['Java', 'Spring Boot'],
     database: ['PostgreSQL', 'MongoDB'],
-    misc: ['TypeScript', 'GraphQL', 'Firebase', 'Docker', 'Spring Cloud']
+    misc: ['TypeScript', 'GraphQL', 'Git', 'Docker'],
+    learning: ['Spring Cloud', 'Microservices', 'AWS']
 }
 ```
 
