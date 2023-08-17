@@ -12,7 +12,7 @@
 
 ## Get in touch 📫
 <a href="https://www.linkedin.com/in/leandroaraujowm/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:leandro.araujowm@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="mailto:redfire314developer@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 <!--
 <div align="center">
