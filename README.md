@@ -3,10 +3,10 @@
 ```Javascript
 {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
-    backend: ['Java', 'Spring Boot', 'Node.js', 'Express'],
+    backend: ['Java', 'Spring Boot'],
     database: ['PostgreSQL', 'MongoDB'],
     misc: ['TypeScript', 'Git', 'Docker'],
-    learning: ['Spring Cloud', 'Microservices', 'AWS']
+    learning: ['Python', 'Flask', 'AWS']
 }
 ```
 
