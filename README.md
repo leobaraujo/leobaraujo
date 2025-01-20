@@ -6,7 +6,7 @@
     backend: ['Java', 'Spring Boot', 'Node.js'],
     database: ['PostgreSQL', 'MongoDB'],
     misc: ['Git', 'Docker'],
-    learning: ['AWS']
+    learning: ['Ruby', 'Ruby on Rails']
 }
 ```
 
