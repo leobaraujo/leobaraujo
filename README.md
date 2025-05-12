@@ -3,10 +3,9 @@
 ```Javascript
 {
     frontend: ['HTML', 'CSS', 'JavaScript', 'React'],
-    backend: ['Java', 'Spring Boot', 'Node.js'],
+    backend: ['Ruby', 'Ruby on Rails', 'Node.js'],
     database: ['PostgreSQL', 'MongoDB'],
-    misc: ['Git', 'Docker'],
-    learning: ['Ruby', 'Ruby on Rails']
+    misc: ['Git', 'Docker']
 }
 ```
 
